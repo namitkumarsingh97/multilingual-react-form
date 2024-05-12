@@ -1,8 +1,9 @@
-# React + Vite
+<h1 align="center" id="title">React Multilingual Form</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center"><img src="https://socialify.git.ci/namitkumarsingh97/multilingual-react-form/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-Currently, two official plugins are available:
+<p id="description">This app will show the implementation of multilingual feature using React. The multilingual functionality makes navigating sites in different languages easier for the readers.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🚀 Demo</h2>
+
+[https://react-multilingual-form.netlify.app/](https://react-multilingual-form.netlify.app/)
