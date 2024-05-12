@@ -7,3 +7,14 @@
 <h2>🚀 Demo</h2>
 
 [https://react-multilingual-form.netlify.app/](https://react-multilingual-form.netlify.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://api.pikwy.com/web/6640919aaedc7544476b3fbc.jpg" alt="project-screenshot" width="100%" height="300/">
+
+<h2>💻 Built with</h2>
+
+Libraries used in the project:
+
+- i18next
+- react-hook-form
