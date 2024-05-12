@@ -1,16 +1,13 @@
 {
-  "React": "Das ist React",
-  "Home": "Daheim",
-  "Contact": "Kontaktiere uns",
-  "About": "Über uns",
+  "header": "Melden Sie sich an",
   "username": {
-    "label": "Nutzername",
-    "placeholder": "Platzhalter..."
+    "label": "Vollständiger Name"
+  },
+  "email": {
+    "label": "Email"
   },
   "password": {
-    "label": "Kennwort",
-    "placeholder": "passwort platzhalter..."
+    "label": "Passwort"
   },
-  "location": "Geben Sie den Standort ein",
-  "Address": "Gib die Adresse ein"
+  "submit": "Melden Sie sich an"
 }

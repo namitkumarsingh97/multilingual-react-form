@@ -1,0 +1,13 @@
+{
+  "header": "साइन अप करा",
+  "username": {
+    "label": "पूर्ण नाव"
+  },
+  "email": {
+    "label": "ईमेल"
+  },
+  "password": {
+    "label": "पासवर्ड"
+  },
+  "submit": "साइनअप करा"
+}

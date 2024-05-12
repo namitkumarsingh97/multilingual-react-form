@@ -1,16 +1,13 @@
 {
-  "React": "Questo è React",
-  "Home": "Casa",
-  "Contact": "Contattaci",
-  "About": "Riguardo a noi",
+  "header": "Iscrizione",
   "username": {
-    "label": "nome utente",
-    "placeholder": "segnaposto..."
+    "label": "Nome e cognome"
+  },
+  "email": {
+    "label": "E-mail"
   },
   "password": {
-    "label": "parola d'ordine",
-    "placeholder": "segnaposto password..."
+    "label": "Parola d'ordine"
   },
-  "location": "Inserisci la posizione",
-  "Address": "Inserisci l'indirizzo"
+  "submit": "Iscrizione"
 }

@@ -1,0 +1,13 @@
+{
+  "header": "చేరడం",
+  "username": {
+    "label": "పూర్తి పేరు"
+  },
+  "email": {
+    "label": "ఇమెయిల్"
+  },
+  "password": {
+    "label": "పాస్వర్డ్"
+  },
+  "submit": "చేరడం"
+}

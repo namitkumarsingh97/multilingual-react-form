@@ -1,14 +1,23 @@
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 
+import translationsInArabic from "../locales/ar/translation.json";
 import translationsInEng from "../locales/en/translation.json";
 import translationsInHin from "../locales/hi/translation.json";
 import translationsInGerman from "../locales/de/translation.json";
 import translationsInItalian from "../locales/it/translation.json";
 import translationsInJap from "../locales/ja/translation.json";
+import translationsInFrench from "../locales/fr/translation.json";
+import translationsInTel from "../locales/te/translation.json";
+import translationsInMar from "../locales/mr/translation.json";
+import translationsInKan from "../locales/kn/translation.json";
+import translationsInUrdu from "../locales/ur/translation.json";
 
 // translations
 const resources = {
+  ar: {
+    translation: translationsInArabic,
+  },
   en: {
     translation: translationsInEng,
   },
@@ -23,6 +32,21 @@ const resources = {
   },
   ja: {
     translation: translationsInJap,
+  },
+  fr: {
+    translation: translationsInFrench,
+  },
+  te: {
+    translation: translationsInTel,
+  },
+  mr: {
+    translation: translationsInMar,
+  },
+  kn: {
+    translation: translationsInKan,
+  },
+  ur: {
+    translation: translationsInUrdu,
   },
 };
 

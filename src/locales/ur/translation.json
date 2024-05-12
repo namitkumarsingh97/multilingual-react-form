@@ -1,0 +1,13 @@
+{
+  "header": "اشتراك",
+  "username": {
+    "label": "پورا نام"
+  },
+  "email": {
+    "label": "ای میل"
+  },
+  "password": {
+    "label": "پاس ورڈ"
+  },
+  "submit": "سائن اپ"
+}

@@ -1,0 +1,93 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0% 2%;
+}
+
+.App:hover {
+  opacity: 1;
+}
+
+.language_selector {
+  width: 8%;
+  border: 1px solid #fff;
+  padding: 2px 1px 2px 1px;
+  border: 0px;
+  outline: 0px;
+}
+
+.list_icon {
+  display: none;
+}
+
+.forms {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+label {
+  margin-top: 2%;
+  font-size: 15px;
+}
+
+input {
+  display: flex;
+  border: 2px solid grey;
+  padding: 3px 3px;
+}
+
+button {
+  margin-top: 3%;
+  padding: 5px 15px;
+}
+
+@media only screen and (max-width: 320px) {
+  body {
+    background-color: #93785b;
+  }
+  .App {
+    background-color: #3e362e;
+    color: #ffffff;
+    padding: 0% 4%;
+  }
+  input {
+    padding: 1px 0px;
+  }
+  button {
+    background-color: #ac9080;
+    border: none;
+  }
+  .language_selector {
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 425px) and (min-width: 321px) {
+  body {
+    background-color: #93785b;
+  }
+  .App {
+    background-color: #3e362e;
+    color: #ffffff;
+    padding: 0% 4%;
+  }
+  input {
+    padding: 2px 1px;
+  }
+  button {
+    background-color: #ac9080;
+    border: none;
+  }
+  .language_selector {
+    width: 25%;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 426px) {
+  .language_selector {
+    width: 15%;
+  }
+}

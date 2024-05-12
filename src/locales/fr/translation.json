@@ -1,0 +1,13 @@
+{
+  "header": "S'inscrire",
+  "username": {
+    "label": "Nom et prénom"
+  },
+  "email": {
+    "label": "E-mail"
+  },
+  "password": {
+    "label": "Mot de passe"
+  },
+  "submit": "S'inscrire"
+}

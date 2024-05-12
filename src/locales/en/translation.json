@@ -1,16 +1,13 @@
 {
-  "React": "This is React",
-  "Home": "Home",
-  "Contact": "Contact Us",
-  "About": "About Us",
+  "header": "Sign Up",
   "username": {
-    "label": "username",
-    "placeholder": "placeholder..."
+    "label": "Full Name"
+  },
+  "email": {
+    "label": "Email"
   },
   "password": {
-    "label": "password",
-    "placeholder": "password placeholder..."
+    "label": "Password"
   },
-  "location": "Enter the location",
-  "Address": "Enter the address"
+  "submit": "SignUp"
 }
